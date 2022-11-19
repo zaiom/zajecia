@@ -1,3 +1,5 @@
+//Copyright by Konrad Drewniak
+
 #include <iostream>
 
 int main() {
